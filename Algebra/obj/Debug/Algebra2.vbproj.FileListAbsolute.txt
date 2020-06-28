@@ -1,0 +1,12 @@
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.exe
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.xml
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.pdb
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\bin\Debug\Algebra2.exe
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\bin\Debug\Algebra2.pdb
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\bin\Debug\Algebra2.xml
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.Exercise.resources
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.Resources.resources
+C:\Users\EJ\Downloads\Programs\Algebra2\Algebra2\obj\Debug\Algebra2.vbproj.GenerateResource.Cache
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra2.exe
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra2.xml
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra2.pdb

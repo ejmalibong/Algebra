@@ -1,0 +1,10 @@
+E:\Programs\VB\Algebra2\Algebra2\bin\Debug\Algebra2.exe
+E:\Programs\VB\Algebra2\Algebra2\bin\Debug\Algebra2.pdb
+E:\Programs\VB\Algebra2\Algebra2\bin\Debug\Algebra2.xml
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\ResolveAssemblyReference.cache
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.Exercise.resources
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.Resources.resources
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.vbproj.GenerateResource.Cache
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.exe
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.xml
+E:\Programs\VB\Algebra2\Algebra2\obj\Debug\Algebra2.pdb

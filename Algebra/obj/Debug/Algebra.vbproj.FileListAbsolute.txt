@@ -1,0 +1,12 @@
+C:\Projects\VB.NET\Algebra2\Algebra2\bin\Debug\Algebra.exe
+C:\Projects\VB.NET\Algebra2\Algebra2\bin\Debug\Algebra.pdb
+C:\Projects\VB.NET\Algebra2\Algebra2\bin\Debug\Algebra.xml
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.Resources.resources
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.vbproj.GenerateResource.Cache
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.exe
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.xml
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.pdb
+C:\Projects\VB.NET\Algebra2\Algebra2\obj\Debug\Algebra.Factorial.resources
+C:\Projects\VB.NET\Algebra\Algebra\obj\Debug\Algebra.exe
+C:\Projects\VB.NET\Algebra\Algebra\obj\Debug\Algebra.xml
+C:\Projects\VB.NET\Algebra\Algebra\obj\Debug\Algebra.pdb
